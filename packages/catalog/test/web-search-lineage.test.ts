@@ -50,7 +50,7 @@ describe("hosted web search follows model lineage and transport", () => {
 			webSearchModel: "claude-3-5-haiku",
 		});
 
-		expect(model.webSearchModel).toBe("claude-haiku-4-5");
+		expect(model.webSearchModel).toBe("claude-haiku-5-5");
 	});
 
 	it.each([

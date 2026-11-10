@@ -814,7 +814,7 @@ class "anthropic" {
 	on-api "anthropic-messages" {
 		revision ">=4" {
 			web-search "anthropic"
-			web-search-model "claude-haiku-4-5"
+			web-search-model "claude-haiku-5-5"
 		}
 	}
 }

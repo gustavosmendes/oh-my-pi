@@ -9,6 +9,10 @@
 
 - Added Muse Ember (`muse-ember-1.0`) on Meta Model API and Muse Code with the `minimal`–`max` reasoning effort ladder and its >200K long-context pricing
 
+### Changed
+
+- Hosted web search from a Claude 4+ model now runs on Claude Haiku 5.5 (`claude-haiku-5-5`) instead of Haiku 4.5, including on proxies and gateways that serve Claude
+
 ## [18.18.6] - 2026-11-09
 
 ### Fixed
